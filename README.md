@@ -1,4 +1,4 @@
-![]({{site.baseurl}}blob:https://github.com/fd00f39d-eaa8-46e0-afc4-95a26ab361b7)
+![2026-03-03_19-34-04.png]({{site.baseurl}}/2026-03-03_19-34-04.png)
 
 _- ℏⅈ!! ςɑʟʟ ɱɛ 𝐶ℎ𝑖𝑛𝑎𝑧𝑒𝑘 or 𝐶ℎ𝑖𝑧_
 
