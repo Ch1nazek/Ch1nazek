@@ -12,3 +12,5 @@
 <p align="center"> $\color{#b9ecc5}{\textsf{And I'll take your hand,,,}}$
 <p align="center"> $\color{#b9ecc5}{\textsf{C'mon ozo}}$
 <p align="center"> $\color{#b9ecc5}{\textsf{Fly with me,,,}}$
+<p align="center"> $\color{#b9ecc5}{\textsf{Let's take it slow, no need to go fast}}$
+<p align="center"> $\color{#b9ecc5}{\textsf{And time will stand still}}$
