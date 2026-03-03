@@ -4,6 +4,8 @@
 
 <p align="center"> $\color{#b9ecc5}{\textsf{Usually afk sorry (,,>﹏<,,)}}$
 
+<p align="center"> $\color{#b9ecc5}{\textsf{eng/rus}}$
+
 <p align="center"> <img width="729" height="302" alt="2026-03-03_19-34-51" src="https://github.com/user-attachments/assets/fb6cae47-d87d-418f-ba0a-e43258a014b3" />
   
 <p align="center"> $\color{#b9ecc5}{\textsf{  ──────────}}$
@@ -20,6 +22,8 @@
 <p align="center"> $\color{#2e8acc}{\textsf{Ozo: "I don't wanna wake up,,,"}}$
 <p align="center"> $\color{#2e8acc}{\textsf{"Please, five minutes.."}}$
 <p align="center"> $\color{#2e8acc}{\textsf{"Anything but wake up.."}}$
+<p align="center"> $\color{#E6F9EE}{\textsf{"ପ(๑•ᴗ•๑)ଓ ♡"}}$ <p align="center"> $\color{#2e8acc}{\textsf{"ପ(๑•ᴗ•๑)ଓ ♡"}}$ 
+
 
 <p align="center"> $\color{#2eccbf}{\textsf{  ──────────}}$
 
