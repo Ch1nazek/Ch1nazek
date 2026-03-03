@@ -2,7 +2,7 @@
 
 <p align="center"> $\color{#b9ecc5}{\textsf{ℏⅈ!! ςɑʟʟ ɱɛ 𝐶ℎ𝑖𝑛𝑎𝑧𝑒𝑘 or 𝐶ℎ𝑖𝑧}}$
 
-<p align="center"> $\color{#b9ecc5}{\textsf{info @ch1z_z}}$
+<p align="center"> $\color{#b9ecc5}{\textsf{info@chiz_z}}$
 
 <p align="center"> $\color{#b9ecc5}{\textsf{Usually afk sorry (,,>﹏<,,)}}$
 
