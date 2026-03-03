@@ -4,6 +4,7 @@
 
 <p align="center"> $\color{#b9ecc5}{\textsf{Usually afk sorry (,,>﹏<,,)}}$
 
+file:///C:/Users/Настя/Desktop/git/2026-03-03_19-34-51.png
 
 <p align="center"> $\color{#b9ecc5}{\textsf{  ──────────}}$
 
