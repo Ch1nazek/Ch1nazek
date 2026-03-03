@@ -22,7 +22,7 @@
 <p align="center"> $\color{#9999FF}{\textsf{Ozo: "I don't wanna wake up,,,"}}$
 <p align="center"> $\color{#9999FF}{\textsf{"Please, five minutes.."}}$
 <p align="center"> $\color{#9999FF}{\textsf{"Anything but wake up.."}}$
-<p align="center"> $\color{#FFFFCC}{\textsf{"ପ(๑•ᴗ•๑)ଓ ♡"}}$
+<p align="center"> $\color{#FFFFCC}{\textsf{"ପ(๑•ᴗ•๑)ଓ"}}$
 $\color{#9999FF}{\textsf{"(ó﹏ò｡)"}}$
 
 <p align="center"> $\color{#2eccbf}{\textsf{  ──────────}}$
