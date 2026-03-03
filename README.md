@@ -4,8 +4,8 @@
 
 <p align="center"> $\color{#b9ecc5}{\textsf{Usually afk sorry (,,>﹏<,,)}}$
 
-file:///C:/Users/Настя/Desktop/git/2026-03-03_19-34-51.png
-
+<p align="center"> <img width="729" height="302" alt="2026-03-03_19-34-51" src="https://github.com/user-attachments/assets/fb6cae47-d87d-418f-ba0a-e43258a014b3" />
+  
 <p align="center"> $\color{#b9ecc5}{\textsf{  ──────────}}$
 
 <p align="center"> $\color{#b9ecc5}{\textsf{Whisper your name}}$
