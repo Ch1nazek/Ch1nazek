@@ -2,6 +2,6 @@
 
 --------------------------
 
-<p align="center"> $\color{#b9ecc5}{\textsf{ℏⅈ!! ςɑʟʟ ɱɛ 𝐶ℎ𝑖𝑛𝑎𝑧𝑒𝑘 or 𝐶ℎ𝑖𝑧}}$ _- ℏⅈ!! ςɑʟʟ ɱɛ 𝐶ℎ𝑖𝑛𝑎𝑧𝑒𝑘 or 𝐶ℎ𝑖𝑧_
+<p align="center"> $\color{#b9ecc5}{\textsf{ℏⅈ!! ςɑʟʟ ɱɛ 𝐶ℎ𝑖𝑛𝑎𝑧𝑒𝑘 or 𝐶ℎ𝑖𝑧}}$
 
 <p align="center"> $\color{#b9ecc5}{\textsf{Usually afk sorry (,,>﹏<,,)}}$
