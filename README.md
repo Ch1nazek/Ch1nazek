@@ -16,3 +16,4 @@
 <p align="center"> $\color{#b9ecc5}{\textsf{And time will stand still}}$
 <p align="center"> $\color{#b9ecc5}{\textsf{But...}}$
 <p align="center"> $\color{#b9ecc5}{\textsf{It's just a dream}}$
+<p align="center"> $\color{#2e8acc}{\textsf{Ozo: "I don't wanna wake up,,,"}}$
