@@ -17,3 +17,5 @@
 <p align="center"> $\color{#b9ecc5}{\textsf{But...}}$
 <p align="center"> $\color{#b9ecc5}{\textsf{It's just a dream}}$
 <p align="center"> $\color{#2e8acc}{\textsf{Ozo: "I don't wanna wake up,,,"}}$
+<p align="center"> $\color{#2e8acc}{\textsf{"Please, five minutes.."}}$
+<p align="center"> $\color{#2e8acc}{\textsf{"Anything but wake up.."}}$
