@@ -10,3 +10,5 @@
 
 <p align="center"> $\color{#b9ecc5}{\textsf{Whisper your name}}$
 <p align="center"> $\color{#b9ecc5}{\textsf{And I'll take your hand,,,}}$
+<p align="center"> $\color{#b9ecc5}{\textsf{C'mon ozo}}$
+<p align="center"> $\color{#b9ecc5}{\textsf{Fly with me,,,}}$
