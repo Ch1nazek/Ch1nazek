@@ -6,4 +6,4 @@ _- ℏⅈ!! ςɑʟʟ ɱɛ 𝐶ℎ𝑖𝑛𝑎𝑧𝑒𝑘 or 𝐶ℎ𝑖𝑧_
 
 _- Usually afk sorry (,,>﹏<,,)_
 
-<font color="green"><b> Usually afk sorry </b></font>
+<span style="color: #2ECC71;">✅ Success: Build passed</span>
