@@ -21,4 +21,6 @@
 <p align="center"> $\color{#2e8acc}{\textsf{"Please, five minutes.."}}$
 <p align="center"> $\color{#2e8acc}{\textsf{"Anything but wake up.."}}$
 
+<p align="center"> $\color{#2eccbf}{\textsf{  ──────────}}$
+
 <p align="center"> <img width="731" height="249" alt="2026-03-03_19-35-24" src="https://github.com/user-attachments/assets/cd4af052-0a52-4b11-8cfe-2fe03fa952b1" />
