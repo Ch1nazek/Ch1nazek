@@ -4,7 +4,7 @@
 
 _- ℏⅈ!! ςɑʟʟ ɱɛ 𝐶ℎ𝑖𝑛𝑎𝑧𝑒𝑘 or 𝐶ℎ𝑖𝑧_
 
-<img width="213" height="185" alt="2026-03-03_22-38-41" src="https://github.com/user-attachments/assets/ea36fe8a-54d8-47d5-85bd-213f7f0df69e" />
+<img width="13" height="85" alt="2026-03-03_22-38-41" src="https://github.com/user-attachments/assets/ea36fe8a-54d8-47d5-85bd-213f7f0df69e" />
 
 
 _- Usually afk sorry (,,>﹏<,,)_
