@@ -19,11 +19,11 @@
 <p align="center"> $\color{#b9ecc5}{\textsf{And time will stand still}}$
 <p align="center"> $\color{#b9ecc5}{\textsf{But...}}$
 <p align="center"> $\color{#b9ecc5}{\textsf{It's just a dream}}$
-<p align="center"> $\color{#2e8acc}{\textsf{Ozo: "I don't wanna wake up,,,"}}$
-<p align="center"> $\color{#2e8acc}{\textsf{"Please, five minutes.."}}$
-<p align="center"> $\color{#2e8acc}{\textsf{"Anything but wake up.."}}$
+<p align="center"> $\color{#9999FF}{\textsf{Ozo: "I don't wanna wake up,,,"}}$
+<p align="center"> $\color{#9999FF}{\textsf{"Please, five minutes.."}}$
+<p align="center"> $\color{#9999FF}{\textsf{"Anything but wake up.."}}$
 <p align="center"> $\color{#FFFFCC}{\textsf{"ପ(๑•ᴗ•๑)ଓ ♡"}}$
-$\color{#2e8acc}{\textsf{"(ó﹏ò｡)"}}$
+$\color{#9999FF}{\textsf{"(ó﹏ò｡)"}}$
 
 <p align="center"> $\color{#2eccbf}{\textsf{  ──────────}}$
 
