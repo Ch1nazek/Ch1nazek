@@ -11,12 +11,14 @@
 <p align="center"> $\color{#b9ecc5}{\textsf{Whisper your name}}$
 <p align="center"> $\color{#b9ecc5}{\textsf{And I'll take your hand,,,}}$
 <p align="center"> $\color{#b9ecc5}{\textsf{And say}}$
-<p align="center"> $\color{#b9ecc5}{\textsf{"C'mon ozo"}}$
-<p align="center"> $\color{#b9ecc5}{\textsf{"Fly with me,,,"}}$
-<p align="center"> $\color{#b9ecc5}{\textsf{"Let's take it slow, no need to go fast"}}$
-<p align="center"> $\color{#b9ecc5}{\textsf{"And time will stand still"}}$
+<p align="center"> $\color{#E6F9EE}{\textsf{"C'mon ozo"}}$
+<p align="center"> $\color{#E6F9EE}{\textsf{"Fly with me,,,"}}$
+<p align="center"> $\color{#E6F9EE}{\textsf{"Let's take it slow, no need to go fast"}}$
+<p align="center"> $\color{#b9ecc5}{\textsf{And time will stand still}}$
 <p align="center"> $\color{#b9ecc5}{\textsf{But...}}$
 <p align="center"> $\color{#b9ecc5}{\textsf{It's just a dream}}$
 <p align="center"> $\color{#2e8acc}{\textsf{Ozo: "I don't wanna wake up,,,"}}$
 <p align="center"> $\color{#2e8acc}{\textsf{"Please, five minutes.."}}$
 <p align="center"> $\color{#2e8acc}{\textsf{"Anything but wake up.."}}$
+
+<p align="center"> <img width="731" height="249" alt="2026-03-03_19-35-24" src="https://github.com/user-attachments/assets/cd4af052-0a52-4b11-8cfe-2fe03fa952b1" />
