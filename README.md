@@ -10,6 +10,8 @@
 
 <p align="center"> $\color{#b9ecc5}{\textsf{eng/rus}}$
 
+<p align="center"> <a href="https://github.com/user-attachments/files/25740367/The_Dead_Milkmen_-_I_Dream_Of_Jesus_.musportal.org.mp3">The Dead Milkmen - I Dream Of Jesus.mp3</a>
+
 <p align="center"> <img width="729" height="302" alt="2026-03-03_19-34-51" src="https://github.com/user-attachments/assets/fb6cae47-d87d-418f-ba0a-e43258a014b3" />
   
 <p align="center"> $\color{#b9ecc5}{\textsf{  ˚₊‧꒰ა ✦ ໒꒱ ‧₊˚}}$
