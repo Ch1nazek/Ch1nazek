@@ -10,7 +10,7 @@
 
 <p align="center"> <img width="729" height="302" alt="2026-03-03_19-34-51" src="https://github.com/user-attachments/assets/fb6cae47-d87d-418f-ba0a-e43258a014b3" />
   
-<p align="center"> $\color{#b9ecc5}{\textsf{  ──── ୨୧ ────}}$
+<p align="center"> $\color{#b9ecc5}{\textsf{  ˚₊‧꒰ა ✦ ໒꒱ ‧₊˚}}$
 
 <p align="center"> $\color{#b9ecc5}{\textsf{Whisper your name}}$
 <p align="center"> $\color{#b9ecc5}{\textsf{And I'll take your hand,,,}}$
@@ -28,7 +28,7 @@
 <p align="center"> $\color{#FFFFCC}{\textsf{"ପ(๑•ᴗ•๑)ଓ"}}$
 $\color{#9999FF}{\textsf{"(ó﹏ò｡)"}}$
 
-<p align="center"> $\color{#2eccbf}{\textsf{  ──── ୨୧ ────}}$
+<p align="center"> $\color{#2eccbf}{\textsf{  ˚₊‧꒰ა ✦ ໒꒱ ‧₊˚}}$
 
 <p align="center"> <img width="731" height="249" alt="2026-03-03_19-35-24" src="https://github.com/user-attachments/assets/cd4af052-0a52-4b11-8cfe-2fe03fa952b1" />
 
