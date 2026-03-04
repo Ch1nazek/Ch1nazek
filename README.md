@@ -40,17 +40,13 @@ $\color{#9999FF}{\textsf{"(ó﹏ò｡)"}}$
 
 <p align="center"> $\color{#adc4d7}{\textsf{ ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆｡˚☁︎˚｡⋆ }}$
 
-<p align="center"> $\color{#b9ecc5}{\textsf{Orig}}$
-
-<img width="528" height="354" alt="2026-03-04_16-37-09" src="https://github.com/user-attachments/assets/aaa4f4e8-6b8b-424b-827f-143f33b92175" />
-
+<p align="center"> $\color{#b9ecc5}{\textsf{Orig video}}$
 
 <details>
-<summary>!flash warning, blood!</summary>
+<summary>!flash warning, blood! <-touch</summary>
  
 [![введите сюда описание изображения][1]][1]
  
 [1]:https://github.com/user-attachments/assets/4670450b-0656-4e56-bf0c-31306ac34dc2
 
 </details>
-
