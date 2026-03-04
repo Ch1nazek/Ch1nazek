@@ -16,7 +16,7 @@
   
 <p align="center"> $\color{#b9ecc5}{\textsf{  ˚₊‧꒰ა ✦ ໒꒱ ‧₊˚}}$
 
-<p align="center"> $\color{#b9ecc5}{\textsf{Whisper your name}}$
+<p align="center"> $\color{#b9ecc5}{\textsf{I whisper your name}}$
 <p align="center"> $\color{#b9ecc5}{\textsf{And I'll take your hand,,,}}$
 <p align="center"> $\color{#b9ecc5}{\textsf{And say}}$
 <p align="center"> $\color{#FFFFCC}{\textsf{"C'mon ozo"}}$
@@ -36,4 +36,6 @@ $\color{#9999FF}{\textsf{"(ó﹏ò｡)"}}$
 
 <p align="center"> <img width="731" height="249" alt="2026-03-03_19-35-24" src="https://github.com/user-attachments/assets/cd4af052-0a52-4b11-8cfe-2fe03fa952b1" />
 
+<p align="center"> $\color{#adc4d7}{\textsf{ ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆｡˚☁︎˚｡⋆ }}$
 
+https://github.com/user-attachments/assets/0abc8cb9-ea3d-4bc5-a2b0-196b7b27f4d2
