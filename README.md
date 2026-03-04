@@ -4,7 +4,7 @@
 
 <p align="center"> $\color{#b9ecc5}{\textsf{ℏⅈ!! ςɑʟʟ ɱɛ 𝐶ℎ𝑖𝑛𝑎𝑧𝑒𝑘 or 𝐶ℎ𝑖𝑧}}$
 
-<p align="center"> <a href="https://t.me/ch1z_z">Info</a>
+<p align="center"> <a href="https://t.me/ch1z_z">Info <-tg!</a>
 
 <p align="center"> $\color{#b9ecc5}{\textsf{Usually afk sorry (,,>﹏<,,)}}$
 
