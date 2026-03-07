@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://t.me/ch1z_z">Info <-tg!</a>
 
-<img align="right" src="https://github.com/user-attachments/assets/e488cd16-88dc-48fe-9156-870036c1453b" alt="Made with Angular" title="target" hspace="40" width="60" height="60"/> <p align="center"> $\color{#b9ecc5}{\textsf{Usually afk sorry (,,>﹏<,,)}}$ <img align="left" src="https://github.com/user-attachments/assets/bcbecfa5-5889-4618-b3f8-6a7cd6336459" alt="Made with Angular" title="target" hspace="40" width="100" height="100"/>
+<img align="right" src="https://github.com/user-attachments/assets/e488cd16-88dc-48fe-9156-870036c1453b" alt="Made with Angular" title="target" hspace="40" width="60" height="60"/> <p align="center"> $\color{#b9ecc5}{\textsf{Usually afk sorry (,,>﹏<,,)}}$ <img align="left" src="https://github.com/user-attachments/assets/bcbecfa5-5889-4618-b3f8-6a7cd6336459" alt="Made with Angular" title="f**king shootgun" hspace="40" width="100" height="100"/>
 
 <p align="center"> $\color{#b9ecc5}{\textsf{eng/rus}}$
 
