@@ -8,7 +8,7 @@
     
 <p align="center">$\color{#c7d0cc}{\textsf{﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌}}$
 <p align="center">$\color{#556832}{\textsf{mmhh... hello??}}$
-<p align="center">$\color{#556832}{\textsf{13 y.o. BDay 10.04}}$
+<p align="center">$\color{#556832}{\textsf{14 y.o. BDay 10.04}}$
 <p align="center"> <a href="https://t.me/ch1z_z">info on tg of course</a>
 <p align="center">$\color{#556832}{\textsf{call me chiz/chinazek}}$
 <p align="center">$\color{#556832}{\textsf{!Usually afk!}}$
