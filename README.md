@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b4a36671-3f3f-4c21-81fa-c0a1186e1daa" width="636" height="314"/>
 </p>
@@ -20,10 +21,15 @@
 
 <p align="center"> $\color{#FFFFCC}{\textsf{Socials!!}}$
 
-<div align="center"> 
-  <a href="https://t.me/ch1z_z" style="color"{#FFFFCC}>Telegram info and stickers!!</a>&nbsp; 
-  <a href="https://en.pronouns.page/@Chinazek" style="color"{#FFFFCC}>Pronouns page</a>&nbsp; 
-  <a href="https://discord.com/users/1197654681317556316" style="color"{#FFFFCC}>Discord</a>
-</div>
-
-##
+</p>
+          </p>
+          <table border="0" align="center">
+              <th align="center">
+              <p align="center">
+  <p align="center"> <a href="https://t.me/ch1z_z">Telegram info and stickers!!</a> 
+  <p align="center"> <a href="https://en.pronouns.page/@Chinazek">Pronouns page</a>
+  <p align="center"> <a href="https://discord.com/users/1197654681317556316">Discord</a>
+</p>
+<p align="center">
+<img width="80" height="120" src="https://github.com/user-attachments/assets/bd38073a-45e2-4aae-a042-f4ef4f99440c" />
+</p>
