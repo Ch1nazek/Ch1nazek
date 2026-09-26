@@ -4,7 +4,7 @@
 </p>
 
 <p align="center"> $\color{#FFFFCC}{\textsf{- ` - ` - ` - ` - ` - ` - ` - ` -}}$
-<p align="center"> $\color{#FFFFCC}{\textsf{Heyy! My name is Chinazek! I have many other names, like Chiz or Сырнки.}}$
+<p align="center"> $\color{#FFFFCC}{\textsf{Heyy! My name is Chinazek! I have many other names, like Chiz or Сырник.}}$
 <p align="center"> $\color{#FFFFCC}{\textsf{14 y.o | 10th april; she/they prns. always afk.}}$
 <p align="center"> $\color{#FFFFCC}{\textsf{I'm quite shy... and may be awkward to talk to if I do not have any of my friends around to bounce off of.}}$
 <p align="center"> $\color{#FFFFCC}{\textsf{Eng/rus. Maybe the English is incorrect :/}}$
