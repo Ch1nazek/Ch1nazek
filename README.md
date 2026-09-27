@@ -7,7 +7,7 @@
 <p align="center"> $\color{#FFFFCC}{\textsf{Heyy! My name is Chinazek! I have many other names, like Chiz or Сырник.}}$
 <p align="center"> $\color{#FFFFCC}{\textsf{14 y.o | 10th april; she/they prns. always afk.}}$
 <p align="center"> $\color{#FFFFCC}{\textsf{I'm quite shy... and may be awkward to talk with new person.}}$
-<p align="center"> $\color{#FFFFCC}{\textsf{Eng/rus. Maybe the English is incorrect :/}}$
+<p align="center"> $\color{#FFFFCC}{\textsf{Eng/rus. Maybe english is incorrect :/}}$
 <p align="center"> $\color{#FFFFCC}{\textsf{Yeah, I know who is it, pls dont say about Notive and his story...}}$
 <p align="center"> $\color{#FFFFCC}{\textsf{- ` - ` - ` - ` - ` - ` - ` - ` -}}$
 
